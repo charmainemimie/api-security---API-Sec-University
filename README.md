@@ -110,8 +110,3 @@ Tested intentionally vulnerable APIs:
 ## 🚀 Next Steps
 Ready to apply my skills to solve real-world security problems and build secure systems.
 
----
-
-
-## 🏷️ Tags
-#CyberSecurity #APISecurity #OWASP #PenTesting
