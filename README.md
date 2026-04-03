@@ -1,5 +1,9 @@
 # 🚀 API Security Training Journey
 
+---
+## for Week 10 and 11, please check the week 10 and 11 branch. 
+
+---
 ## 📌 Overview
 This repository documents my journey through a **16-week intensive, hands-on API Security training program** that I was accepted into in **November 2025**, offered by **Cybersafe Foundation** and **APIsec University**.
 
